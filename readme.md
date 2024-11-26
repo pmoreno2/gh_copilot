@@ -6,6 +6,10 @@ Este es un proyecto del curso "Github Copilot".
 
 Pedro Moreno
 
+## Deployment
+
+Link GitHub Page(https://pmoreno2.github.io/gh_copilot/).
+
 ## Herramientas
 
 1) Visual studio code. IDE para interactuar con la herramienta de IA llamada Copilot. Plugins:
